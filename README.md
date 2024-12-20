@@ -8,6 +8,8 @@
 프로젝트의 스크립트는 /Assets/_Completed-Assets/Scripts 에 저장되어 있으며, 포톤 라이브러리의 적용을 위해 Resource 폴더에 추가 구입한 에셋을 담았습니다.
 
 ### 구현 내용
+
+#### 객체에 PhotonView 부여
 - 네트워크 동작을 위해 Object와 Prefab에 PhotonView 부여
 - 고정 배치하는 탱크와 기름통에는 고정 PhotonView 번호를 부여했으며, Instantiate 함수로 생성되는 Item등에 있어서는 동적으로 자동으로 부여되도록 설정하였습니다.
 
