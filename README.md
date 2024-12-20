@@ -9,6 +9,6 @@
 
 ### 구현 내용
 - 네트워크 동작을 위해 Object와 Prefab에 PhotonView 부여
--- 고정 배치하는 탱크와 기름통에는 고정 PhotonView 번호를 부여했으며, Instantiate 함수로 생성되는 Item등에 있어서는 동적으로 자동으로 부여되도록 설정하였습니다.
+- 고정 배치하는 탱크와 기름통에는 고정 PhotonView 번호를 부여했으며, Instantiate 함수로 생성되는 Item등에 있어서는 동적으로 자동으로 부여되도록 설정하였습니다.
 
   
