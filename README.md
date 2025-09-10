@@ -12,7 +12,7 @@ Unity 공식 튜토리얼 게임 **TANKS**를 기반으로, 카메라워크와 �
 
 ---
 ## TANKS! 2P 동영상
-
+[![TANKS!](https://img.youtube.com/vi/Wzk4kn7v7Tk/0.jpg)](https://youtu.be/Wzk4kn7v7Tk)
 ---
 
 ## 주요 구현 기능
